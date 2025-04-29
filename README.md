@@ -5,7 +5,7 @@
 ---
 
 ### 👀 About Me
-Hey, I'm Bilal! A passionate developer with **5+ years of experience** in crafting scalable and high-performance web applications. I specialize in **Laravel** and **Node.js**, with strong expertise in both relational and NoSQL databases. 
+Hey, I'm Bilal! A passionate developer with **6+ years of experience** in crafting scalable and high-performance web applications. I specialize in **Laravel** and **Node.js**, with strong expertise in both relational and NoSQL databases. 
 
 ### 💻 Tech Stack & Skills
 - **Backend**: Laravel, Node.js
