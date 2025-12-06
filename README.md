@@ -1,6 +1,6 @@
 # Bilal Ajmery  
 **Full-Stack Engineer | Laravel • Node.js • React | Database Specialist**  
-6+ years of professional experience building scalable, secure, and high-performance web applications.
+5+ years of professional experience building scalable, secure, and high-performance web applications.
 
 ### Professional Summary
 Results-driven Full-Stack Engineer with expertise in backend architecture, modern frontend development, and robust database design. Passionate about writing clean, maintainable, and efficient code for production-grade systems.
